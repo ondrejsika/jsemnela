@@ -5,5 +5,19 @@
   "repository": "https://github.com/ondrejsika/jsemnela",
   "author": "Ondrej Sika <ondrej@ondrejsika.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.3.1",
+    "next": "^9.0.7",
+    "next-images": "^1.2.0",
+    "react": "^16.10.2",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-dom": "^16.10.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "static": "yarn run build && next export"
+  }
 }
