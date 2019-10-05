@@ -1,0 +1,9 @@
+{
+  "name": "jsemnela",
+  "version": "0.0.0",
+  "description": "Example site for LinuxDays 2019",
+  "repository": "https://github.com/ondrejsika/jsemnela",
+  "author": "Ondrej Sika <ondrej@ondrejsika.com>",
+  "license": "MIT",
+  "private": true
+}
