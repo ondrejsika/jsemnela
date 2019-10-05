@@ -1,9 +1,11 @@
 import React from "react";
+import Head from "next/head";
 import Gallery from "../components/Gallery";
 
 export default () => {
   return (
     <>
+      <Head><title>@jsemela - About me</title></Head>
       <Gallery
         images={[
           require("../data/nela9.jpg"),

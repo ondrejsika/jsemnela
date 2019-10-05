@@ -2,10 +2,12 @@ import React from "react";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "../components/Image";
+import Head from "next/head";
 
 export default () => {
   return (
     <>
+      <Head><title>@jsemela - About me</title></Head>
       <Row>
         <Col sm={6}>
           <Image src={require("../data/nela.jpg")} />
