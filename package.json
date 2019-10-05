@@ -20,6 +20,7 @@
     "dev": "next",
     "build": "next build",
     "static": "yarn run build && next export",
+    "now-build": "yarn run static",
     "deploy": "now"
   }
 }
