@@ -17,11 +17,11 @@ export default () => {
           <p>
             Ahoy, I'm Nela,
             <br />
-            I'm half labrador half swiss shepard.
+            I'm half labrador half swiss shepherd.
           </p>
           <p>
             I love watter (anytime, anywhere, dirty is better than clean), mud,
-            mountines and play fetch.
+            Mountains and play fetch.
           </p>
           <p>
             I was born 26th of May 2015 close to Hradec Kralove. Now, I live in
