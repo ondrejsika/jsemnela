@@ -20,7 +20,7 @@ export default () => {
             I'm half labrador half swiss shepherd.
           </p>
           <p>
-            I love watter (anytime, anywhere, dirty is better than clean), mud,
+            I love water (anytime, anywhere, dirty is better than clean), mud,
             Mountains and play fetch.
           </p>
           <p>
